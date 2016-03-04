@@ -1,14 +1,14 @@
 # PROG 02: Represent!
 
-Briefly describe your app here.
+This app allows the user to look information about the Senators and Representative from any zip code or their current location. It also displays the 2012 presidential vote for that location as well.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Joshua Meeker ([jrmeeker_email@berkeley.edu](mailto:jrmeeker_email@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Represent Tutorial] (https://youtu.be/Oqdl3hwdNFs)
 
 ## Screenshots
 
