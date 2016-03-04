@@ -4,7 +4,7 @@ This app allows the user to look information about the Senators and Representati
 
 ## Authors
 
-Joshua Meeker ([jrmeeker_email@berkeley.edu](mailto:jrmeeker_email@berkeley.edu))
+Joshua Meeker ([jrmeeker@berkeley.edu](mailto:jrmeeker@berkeley.edu))
 
 ## Demo Video
 
