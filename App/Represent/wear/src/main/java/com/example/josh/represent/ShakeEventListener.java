@@ -17,7 +17,7 @@ public class ShakeEventListener implements SensorEventListener {
 
 
     /** Minimum movement force to consider. */
-    private static final int MIN_FORCE = 200;
+    private static final int MIN_FORCE = 100;
 
     /**
      * Minimum times in a shake gesture that the direction of movement needs to
@@ -78,7 +78,6 @@ public class ShakeEventListener implements SensorEventListener {
         float totalMovement = Math.abs(x + y + z - lastX - lastY - lastZ);
 
         if (totalMovement > MIN_FORCE) {
-
             // get time
             long now = System.currentTimeMillis();
 

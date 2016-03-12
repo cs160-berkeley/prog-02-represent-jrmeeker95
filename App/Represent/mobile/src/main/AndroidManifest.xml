@@ -2,6 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.josh.represent">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -47,6 +51,11 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.josh.represent.CongressionalActivity" />
         </activity>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyD1VvSH2AP59au7LXKCOZnzz0hd7W67Afg"/>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="40f27efc9766ab529308625514692e5cab734c31" />
     </application>
-
 </manifest>

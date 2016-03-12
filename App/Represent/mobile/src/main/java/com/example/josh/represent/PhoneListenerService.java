@@ -39,7 +39,7 @@ public class PhoneListenerService extends WearableListenerService {
                 intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 //you need to add this flag since you're starting a new activity from a service
                 intent.putExtra("DATA", value);
-                Log.d("T", "about to start mobile CongressionalActivity with DATA");
+                Log.d("T", "about to start mobile DetailedActivity with DATA");
                 startActivity(intent);
             }
 

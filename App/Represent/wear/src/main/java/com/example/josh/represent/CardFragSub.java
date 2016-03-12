@@ -37,8 +37,13 @@ public class CardFragSub extends CardFragment {
                     @Override
                     public void onClick(View v) {
                         // put your onClick logic here
+                        String phone = title;
+                        phone = phone.replace(" ", ";");
+                        String[] data = phone.split(";");
+                        phone = data[1] + ";" + data[2];
+
                         Intent sendIntent = new Intent(getActivity(), WatchToPhoneService.class);
-                        sendIntent.putExtra("DATA", title);
+                        sendIntent.putExtra("DATA", phone);
                         getActivity().startService(sendIntent);
                     }
                 });
