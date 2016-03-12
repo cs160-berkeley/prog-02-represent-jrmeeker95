@@ -12,14 +12,14 @@ See [Represent Tutorial] (https://youtu.be/VuMzxxrbjaU)
 
 ## Screenshots
 
-<img src="screenshots/screenshot (95).png" height="400" alt="Screenshot"/>
-<img src="screenshots/screenshot (96).png" height="400" alt="Screenshot1"/>
-<img src="screenshots/screenshot (97).png" height="400" alt="Screenshot2"/>
-<img src="screenshots/screenshot (98).png" height="400" alt="Screenshot3"/>
-<img src="screenshots/screenshot (99).png" height="400" alt="Screenshot4"/>
-<img src="screenshots/screenshot (100).png" height="400" alt="Screenshot5"/>
-<img src="screenshots/screenshot (101).png" height="400" alt="Screenshot6"/>
-<img src="screenshots/screenshot (102).png" height="400" alt="Screenshot7"/>
+<img src="screenshots/Screenshot (95).png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot (96).png" height="400" alt="Screenshot1"/>
+<img src="screenshots/Screenshot (97).png" height="400" alt="Screenshot2"/>
+<img src="screenshots/Screenshot (98).png" height="400" alt="Screenshot3"/>
+<img src="screenshots/Screenshot (99).png" height="400" alt="Screenshot4"/>
+<img src="screenshots/Screenshot (100).png" height="400" alt="Screenshot5"/>
+<img src="screenshots/Screenshot (101).png" height="400" alt="Screenshot6"/>
+<img src="screenshots/Screenshot (102).png" height="400" alt="Screenshot7"/>
 
 ## Acknowledgments
 
